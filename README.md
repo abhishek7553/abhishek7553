@@ -29,9 +29,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek7553">
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=abhishek7553&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek7553&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+    />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek7553&count_private=true&show_icons=true&theme=light" alt="Abhishek's Github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek7553&layout=compact&theme=light"/>
 

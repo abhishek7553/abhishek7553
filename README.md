@@ -35,10 +35,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek7553&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
-  <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek7553&layout=compact&theme=tokyonight"
-   />
 </p>
 
 
